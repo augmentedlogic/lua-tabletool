@@ -1,0 +1,14 @@
+Source: lua-tabletool
+Priority: optional
+Section: interpreters
+Maintainer: Wolfgang Hauptfleisch <dev@augmentedlogic.com>
+Homepage: https://github.com/augmentedlogic/lua-tabletool
+
+Package: lua-tabletool
+Architecture: all
+Section: utils
+Priority: optional
+Depends: lua
+Description: various methods to manipulate lua tables
+ a library to manipulate, modify or work with lua tables
+

@@ -1,0 +1,6 @@
+debian/lua-tabletool/
+debian/lua-tabletool.substvars
+debian/debhelper-build-stamp
+debian/lua-tabletool.debhelper.log
+debian/files
+

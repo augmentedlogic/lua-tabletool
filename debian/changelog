@@ -1,0 +1,5 @@
+lua-tabletool (0.2-1) unstable; urgency=low
+  * initial debian package
+
+ -- Wolfgang Hauptfleisch <dev@augmentedlogic.com>  Thu, 24 Dec 2020 11:29:16 +0000
+
